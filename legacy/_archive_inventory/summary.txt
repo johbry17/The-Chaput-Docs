@@ -1,0 +1,448 @@
+UNCLE'S FILE ARCHIVE — INITIAL INVENTORY
+============================================================
+
+Root directory:
+C:\Users\johbr\Downloads\The Chaput Docs
+
+Total files: 4,236
+Total folders: 120
+
+FILE CATEGORIES
+------------------------------------------------------------
+document        1,668
+image           1,630
+other           742
+audio           196
+
+FILE EXTENSIONS
+------------------------------------------------------------
+.doc            1,562
+.jpg            1,318
+.url            278
+.png            211
+.mp3            162
+.js             117
+.gif            73
+.pdf            61
+.ini            46
+.htm            45
+.css            42
+.docx           36
+.ppt            30
+.db             28
+.wma            27
+.lnk            26
+.tmp            25
+.bmp            23
+[none]          20
+.swf            8
+.txt            7
+.loaded_0       5
+.reg            5
+.zip            5
+.exe            5
+.html           5
+.pmm            5
+.m4a            3
+.jpeg           3
+.loaded_1       3
+.wav            3
+.as             3
+.xml            3
+.gg             3
+.nrj            3
+.wpl            3
+.rtf            2
+.m3u            2
+.tif            2
+.wps            2
+.loaded_2       2
+.json           2
+.pptx           2
+.fla            2
+.dll            2
+.meta           2
+.py             1
+.odt            1
+.prn            1
+.docm           1
+.psw            1
+.rdp            1
+.mht            1
+.ttf            1
+.shs            1
+.bak            1
+.tsf            1
+.nri            1
+.ogg            1
+.orig           1
+
+RELEVANCE
+------------------------------------------------------------
+HIGH            21
+POSSIBLE        15
+LOW             39
+UNLIKELY        4,161
+
+EXACT DUPLICATES
+------------------------------------------------------------
+Duplicate groups: 198
+
+TOP NOVEL CANDIDATES
+------------------------------------------------------------
+
+[HIGH] Score 123
+3\BookPromotioneBook.pdf
+Preview: Brian Jud Proven Tips for Publishing Success Get Your Word’s Worth Get Your Word’s Worth 555 Tips for Improving Your Book Promotion Are you getting the most bang from your promotional buck? There are some publishers who think publicity is the only promotional tool for selling books. In fact, it is o
+
+[HIGH] Score 66
+3\My Documents\The Story of the.pdf
+Preview:  The Story of the LaFayette Escadrille TOLD BY ITS COMMANDER CAPTAIN GEORGES THENAULT To THE Memory of CHAPMAN, ROCKWELL, PRINCE, MacCONNELL, GENET, DRESSY, HOSKIER, DE LAAGE, DE Meux, MacMONAGLE. CAMPBELL, LUFBERY. MY COMPANIONS IN ARMS, A TRIBUTE OF SUPREME ADMIRATION. J177584 PREFACE My dear Capt
+
+[HIGH] Score 66
+3\My Documents\The Story of the.txt
+Preview: ﻿----------------------- Page 1----------------------- The Story of the LaFayette Escadrille TOLD BY ITS COMMANDER CAPTAIN GEORGES THENAULT To THE Memory of CHAPMAN, ROCKWELL, PRINCE, MacCONNELL, GENET, DRESSY, HOSKIER, ----------------------- Page 2----------------------- DE LAAGE, DE Meux, MacMONA
+
+[HIGH] Score 64
+3\My Documents\zoning.pdf
+Preview: 39 ZONING AND SUBDIVISION THE ADOPTION PROCESS Section III Overview Land use regulations are adopted, amended and repealed using a single process established by statute. The planning commission, selectboard and voters all have well-defined roles, which may vary depending upon whether the bylaw was s
+
+[HIGH] Score 57
+3\My Documents\tighar tracks.pdf
+Preview: December 11, 1991 © TIGHAR 1991 Volume 7, Number 5 We’re going to know. We don’t know yet, but we now know that we’re going to know whether or not Amelia Earhart and Fred Noonan landed their Lockheed at Nikumaroro. TIGHAR’s most recent expedition to that far away island has returned with airplane wr
+
+[HIGH] Score 52
+3\My Documents\SecretServiceThreat Assessment.pdf
+Preview: THREAT ASSESSMENT IN SCHOOLS: A GUIDE TO MANAGING THREATENING SITUATIONS AND TO CREATING SAFE SCHOOL CLIMATES UNITED STATES SECRET SERVICE AND UNITED STATES DEPARTMENT OF EDUCATION WASHINGTON, D. C. May 2002 i THREAT ASSESSMENT IN SCHOOLS: A GUIDE TO MANAGING THREATENING SITUATIONS AND TO CREATING S
+
+[HIGH] Score 51
+3\My Documents\VIDAL.pdf
+Preview: The Enemy Within by Gore Vidal London, 27 October 2002 The Observer Gore Vidal is America’s most controversial writer and a ferocious, often isolated, critic of the Bush administration. Here, against a backdrop of spreading unease about America’s response to the events of 11 September 2001 and their
+
+[HIGH] Score 43
+2\SeaAndTheJungle[1].pdf
+Preview: The Sea and the Jungle H. M. Tomlinson, 1912 A RIA PRESS EDITION, JUNE 2005 NAUTICAL PUBLISHERS OF INTEREST paracay.com | THE PARDEYS AND MANY OTHER TITLES goodoldboat.com | THE GREAT MAGAZINE AND THE GOOD OLD BOOKSHELF woodenboat.com | THE BEST SELECTION OF BOATBUILDING TITLES tillerbooks.com | THE
+
+[HIGH] Score 42
+3\CODIS HANDBOOK.pdf
+Preview:   Handbook of Forensic Services (revsed 2007) Editor Km Waggoner Editorial Assistant Kathryn H. Suchma Graphic Design Sandra D. Hollday An FBI Laboratory Publcaton Federal Bureau of Investgaton Quantco, Vrgna ISBN 978-0-16-079376-9  Table of Contents Introducton. . . . . . . . . . 
+
+[HIGH] Score 39
+2\SILK SYNOPSIS.pdf
+Preview:  W. J. Chaput Synopsis for the 100,000 word novel Smooth As Silk Smooth As Silk is a 220-volt political shocker wrapped around a once-in-a-lifetime love story that tells the tale of an American Office of Strategic Services (OSS) agent and her reluctant guide who are inserted into Europe in 1942 to i
+
+[HIGH] Score 28
+2\CONCEALED CARRY.pdf
+Preview: www.USConcealedCarry.com U.S. CONCEALED CARRY AND CONCEALED CARRY MAGAZINE DISCLAIMER AUTHOR’S DISCLAIMER This publication is designed to provide the authors’ beliefs and opinions in regard to the subject matter covered. They are sold with the understanding that neither the authors nor the publisher
+
+[HIGH] Score 28
+3\My Documents\WWConstitution.pdf
+Preview: IWW CONSTITUTION & BYLAWS PAGE 1 As Amended Through January 1, 2005 Organized July 7, 1905 Industrial Workers of the World Preamble & Constitution of the PAGE 2 IWW CONSTITUTION & BYLAWS Table of Contents Preamble..........................................3 ARTICLE I: Name and Structure.....3 Departm
+
+[HIGH] Score 25
+3\My Documents\RESUMECOMBINED.pdf
+Preview: W. J. CHAPUT 109 Bushey Road St. Albans, VT 05478-9609 USA RÉSUMÉ Phone/Fax: 802-734-8347 
+
+[HIGH] Score 23
+2\SCREAM QUERY.pdf
+Preview: I NEED A NEW AGENT QUERY SCREAM (Working Title) 120,000 wds Mystery/Thriller/Literary A novel the Vermont Chamber of Commerce will dislike. Northern Vermont, early ’8:s, not cutesy rural but rusty rural, a camouflaged killer silently savors his work, federal agents and bog trotters blunder along the
+
+[HIGH] Score 23
+3\SCREAM QUERY.pdf
+Preview: I NEED A NEW AGENT QUERY SCREAM (Working Title) 120,000 wds Mystery/Thriller/Literary A novel the Vermont Chamber of Commerce will dislike. Northern Vermont, early ’8:s, not cutesy rural but rusty rural, a camouflaged killer silently savors his work, federal agents and bog trotters blunder along the
+
+[HIGH] Score 22
+2\SILK 1-40.pdf
+Preview: A1 CHAPUT Remember this. Ahead, gray cliffs rise nearly to her level. She feels mist in her eyes, blinks, then drops in tight gyres through a twilit murk of wet clinging cloud. She ends another fine day for tit-bits with an indulgent flourish of acrobatics. She loses air quickly, the ravine before h
+
+[HIGH] Score 22
+2\Smooth As Silk (complete).pdf
+Preview:  SMOOTH AS SILK by W. J. Chaput 107 Belmont Drive Alpharetta, GA 30022-5974 “But Faith, fanatic Faith, once wedded fast To some dear falsehood, hugs it to the last.” The Veiled Prophet of Khorassan Thomas Moore A1 CHAPUT Remember this. Ahead, gray cliffs rise nearly to her leve
+
+[HIGH] Score 22
+3\My Documents\DS-0011.pdf
+Preview: U.S. Department of State FOR INFORMATION, QUESTIONS, AND INQUIRIES: Please visit our website at travel.state.gov. In addition, contact the National Passport Information Center (NPIC) toll-free at 1-877-487-2778 (TDD: 1-888-874-7793) or by e-mail at NPIC@state.gov. Customer Service Representatives ar
+
+[HIGH] Score 22
+3\My Documents\ds-11PASSPORT.pdf
+Preview: U.S. Department of State FOR INFORMATION, QUESTIONS, AND INQUIRIES: Please visit our website at travel.state.gov. In addition, contact the National Passport Information Center (NPIC) toll-free at 1-877-487-2778 (TDD: 1-888-874-7793) or by e-mail at NPIC@state.gov. Customer Service Representatives ar
+
+[HIGH] Score 18
+3\My Documents\GunFacts5-0-screen.pdf
+Preview:  Table of Contents Table of Contents ..................................................................................................... i Introduction..............................................................................................................v Acknowledgements...................
+
+[HIGH] Score 15
+3\My Documents\SecretServiceThreats.pdf
+Preview: Training Available For School Divisions Guidelines for Responding to Student Threats of Violence The Virginia Youth Violence Project is offering training to school divisions in our new Guidelines for Responding to Student Threats of Violence. These Guidelines are designed to prepare school-based tea
+
+[POSSIBLE] Score 14
+2\SILK 161-200.pdf
+Preview: 161 CHAPUT transmit en clear— you are at least an imposter, at most a traitor. You told them the truth during those 'sweat shops' at the CCC, didn't you? I read the session notes on you in Washington. Clever bastard—but Dennison has lung cancer —he's in a federal prison in Pennsylvania. Dennison's s
+
+[POSSIBLE] Score 14
+2\TanklessHeaterArticle[1].pdf
+Preview: I recently retired after 30 years as a res- idential contractor. My wife and I now live in a new home I built in Colorado. It’ s high in the mountains (ele- vation: 10,000 feet; heating degree days: 8,500) and has 2,000 square feet of con- ditioned space heated by a radiant-floor heating system. Whi
+
+[POSSIBLE] Score 12
+2\APA style Manual.TXT
+Preview: ﻿----------------------- Page 1----------------------- Running head: VARYING DEFINITIONS OF ONLINE COMMUNICATION 1 The running head is a The title 
+
+[POSSIBLE] Score 12
+2\SILK 121-160.pdf
+Preview: 121 CHAPUT “I'm alone,” she said. Silk backed away into the road, peered along the stone wall and its bordering azalea barriers that shielded her. “They'll find you.” Go now, he thought. “Doesn't mean you shouldn't run—running away is what you do be st.” Silk tripped into a River Road pothole. “I ne
+
+[POSSIBLE] Score 12
+3\Tumbleweedbook.pdf
+Preview: Contents Introduction Confessions of a Claustrophile A Good Home Making Space Portfolio of Houses: Endnotes Biography Endorsements 4 6 24 64 120 122 124 130 138 146 150 156 160 164 166 168 170 172 174 176 178 180 182 186 188 190 195 196 197 New Popomo XS-House Ep
+
+[POSSIBLE] Score 11
+2\SCREAM REQUESTED MS..pdf
+Preview: 1 CHAPUT SCREAM W J CHAPUT 107 Belmont Drive Alpharetta, GA 30022-5974 USA & 485 Barry Road Fairfield, VT 05455-5583 678-429-5881 galaxydiner@hotmail.com 2 CHAPUT WEDNESDAY ― SHORT FALLS, NEW HAMPSHIRE ― 4:13 P.M. Elaine Gilson scribbled her family‘s supper menu, then paused. She allowed her mind to
+
+[POSSIBLE] Score 11
+3\SCREAM REQUESTED MS..pdf
+Preview: 1 CHAPUT WEDNESDAY ― SHORT FALLS, NEW HAMPSHIRE ― 4:13 P.M. Elaine Gilson scribbled her family‘s supper menu, then paused. She allowed her mind to wander briefly. She had shut off the coffee maker. The stove was off but warm—a tuna- pea-wiggle casserole hot in the oven—a molded JELL-O salad in the f
+
+[POSSIBLE] Score 10
+2\Email four ADDITIONAL sections for WHAT THE DOG SAW.pdf
+Preview:  The woods were lovely, dark, and deep . . . The spanking new dump truck from the Massachusetts Department of Public Works waited behind the fire station, shiny and sunlit so that its paint had the shimmer of Navel Orange pulp. The truck’s snout nearly touched the hardware store’s back wall. There w
+
+[POSSIBLE] Score 10
+2\SILK 41-80.pdf
+Preview: 41 CHAPUT Sagansky said in Polish, “I got three more trucks comin' over from Brooklyn.” “You warehouse gasoline in Brooklyn?” “Work for me, Silk— you'll wear snappy clothes.” Sagansky picked at Silk's leather jacket. “You look like a bum.” “I am a bum,” Silk said in Polish. “If you're a bum, I'm May
+
+[POSSIBLE] Score 10
+2\SILK 81-120.pdf
+Preview:  81 CHAPUT shorts from stolen Cinebref newsreels that gave the German view on the Polish invasion and Dunkirk. Horribly mutilated corpses and piled heads in grainy bits of film from China and the Japanese occupation. Siamese women suspended from their feet, legs apart, Japanese sergeants cleaving th
+
+[POSSIBLE] Score 10
+3\TumbleweedHouses.pdf
+Preview: CATALOG HOUSES-TO-GO With wheels, traditional proportioning and ar- chetypal form, these little structures are like my house (in fact, that is my house in the photo). They are all designed to be portable and can, es- sentially, be sited anywhere you can park a travel trailer.* They range from about 
+
+[POSSIBLE] Score 9
+2\Missile Attack.TXT
+Preview: ﻿----------------------- Page 1----------------------- WikiLeaks Document Release http://wikileaks.org/wiki/CRS-RL31741 February 2, 2009 Congressional Research Service Report RL31741 Homeland Security: Protecting Airliners from Terrorist Missiles Christopher Bolkcom t, Foreign 
+
+[POSSIBLE] Score 9
+2\Smooth As Silk (complete).txt
+Preview:  SMOOTH AS SILK by W. J. Chaput 107 Belmont Drive Alpharetta, GA 30022-5974 But Faith, fanatic Faith, once wedded fast To some dear falsehood, hugs it to the last. The Veiled Prophet of Khorassan Thomas Moore Remember this. Ahead, gray cliffs rise nearly to her level. She fe
+
+[POSSIBLE] Score 8
+3\My Documents\Tim_Wheat_Background_[1].pdf
+Preview: lntelius People Search - Public Records, Background Checks & More. - lntelius- ' Page 1 of 10 tlember Status: li:::,, : reiasersidaol.conr [siSn Out] Customer Se|' l€e: 425.974.6100{ rnrek;u= tP Purt{ic. R€caltt lnformrtion Your credit card statement wlll reflect a charqe from li:telius. Your transa
+
+[POSSIBLE] Score 7
+3\NO WAY OUT.docx
+Preview: NO WAY OUT Jillian Gary 10/12/10 “You never listen to me!” I screamed down the stairs. My mother didn’t answer me. She didn’t care what I had to say. I wasn’t the happiest person, but my friend Ella made me happy. I go to counseling Mondays and Thursdays. Ella, on the other hand, is my best friend. 
+
+[LOW] Score 6
+1\GOOGLE DOCS 8.docx
+Preview: With any luck at all, Dear Donny's crummy 3rd-World 'Murka will not exist at all. The dump will need to get its troops home, given that delusional, already-shattered 'Murka hasn't a single friend on the planet who might help. More likely is that all the Earth will cinch 'Murka "CLOSED FOR REPAIRS!" 
+
+[LOW] Score 6
+1\Toshiba Files\ALMA MAHLER & HER HUSBAND.docx
+Preview: Tuna— I cannot find a recording or video of Mahler’s Adagietto played on a solo harp, concert or Celtic—a piece I thought you might enjoy playing. Goddam frustrating. So, I’m sending you a few screenshots of the piece played on other instruments, as well as the sheet music for piano solo which I fou
+
+[LOW] Score 6
+1\Toshiba Files\QUERY    I NEED A NEW AGENT   COMMERCIAL FICTION    100M WORDS.doc
+
+[LOW] Score 6
+1\Toshiba Files\QUERY I NEED A NEW AGENT COMMERCIAL FICTION 100M WORDS.doc
+
+[LOW] Score 6
+2\2015 CanAm ATV-SSV Brochure_v5.pdf
+Preview:  THE RIDE SAYS IT ALL 4 –5 T he Ride Says It All 6 –7 A TV Technologies 8 –9 S ide-By-Side Vehicle Technologies 1 0 –11 O utlander™ L / Outlander L MAX 1 2–13 O utlander / Outlander MAX 1 4–15 O utlander 6x6 / Outlander Gear and Accessories 1 6–17 R enegade ® / DS 450™ / DS 250 / YOUTH 1 8–19 O utla
+
+[LOW] Score 6
+2\ALMA MAHLER & HER HUSBAND.pdf
+Preview:  Tuna— I cannot find a recording or video of Mahler’s Adagietto played on a solo harp, concert or Celtic—a piece I thought you might enjoy playing. Goddam frustrating. So, I’m sending you a few screenshots of the piece played on other instruments, as well as the sheet music for piano solo which I fo
+
+[LOW] Score 6
+2\RBG_Cannons-catalog[1].pdf
+Preview: Ye Olde Cannon MakerYe Olde Cannon Maker Handcrafted Saluting Cannons & Accessories RBG CannonsRBG Cannons Y e Olde Cannon Maker 1 -800-327 -2 1 93 • www .rbgcannons.com Ye Olde Cannon Maker… In the tradition of naval design, third generation L. Francis Herreshoff built thirteen yachting cannons. Te
+
+[LOW] Score 6
+3\Metro Map (expands).pdf
+Preview: Bois de Vincennes Bois de Boulogne Forêt de Meudon Forêt d'Armainvilliers Forêt de Sénart Forêt de Fontainebleau Forêt de Rambouillet Forêt de Rambouillet Forêt de Marly Forêt de Saint-Germain Forêt de Montmorency Forêt de Ferrières Cergy Pontoise Saint-Quentin en-Yvelines Versailles Aéroport d’Orly
+
+[LOW] Score 6
+3\My Documents\bumping  locks.pdf
+Preview:  Bumping locks How to open Mul-T-Lock (pin-in-pin, interactive, 7x7), Assa (6000 Twin), DOM (ix, dimple with ball), LIPS (Octro dimple), Evva TSC, ISEO (dimple & standard), Corbin, Pfaffenhain and a variety of other expensive mechanical locks without substantial damage, usually in under 30 seconds, 
+
+[LOW] Score 6
+3\My Documents\detectionkit\FlashPlayerDetectionKit_StartHere.pdf
+Preview: 1 Flash Player Detection Kit by Michael Williams August2005 Copyright © 2005 Macromedia, Inc. All rights reserved. The information contained in this document represents the current view of Macromedia on the issue discussed as of the date of publication. Because Macromedia must respond to changing ma
+
+[LOW] Score 5
+2\FHP.pdf
+Preview: This handbook was created by the CVOEO Fair Housing Project with funding from the US Department of Housing and Urban Development. Since 1995, FHP has been working to end housing discrimination in Vermont through education and outreach of fair housing laws. For more information contact us: CVOEO Fair
+
+[LOW] Score 5
+3\OLD DOGS.pdf
+Preview: They can be eccentric, slow afoot, even grouchy. But dogs live out their final days, says The Washington Post Not long before his death, Harry and I headed out for a walk that proved eventful. He was nearly 13, old for a big dog. Walks were no longer the slap-happy Iditarods of his youth, frenzies o
+
+[LOW] Score 4
+1\Pure, fictional, and laughable twaddle 1.18.'25.docx
+Preview: Pure, fictional, and laughable twaddle meant to gull 3rd-world ’Murka's deluded "Great Unwashed" into something very like a fairy-tale bedtime story. Each passing day re-certifies the 'Murkan Embarrassment as a monstrously pathetic, war-mongering nightmare wherein 82.7% of its goober majority sports
+
+[LOW] Score 4
+1\Untitled document (3).docx
+Preview: Pure, fictional, and laughable twaddle meant to gull 3rd-world 'Murka's deluded "Great Unwashed" into something very like a fairy-tale bedtime story. Each passing day re-certifies the 'Murkan Embarrassment as a monstrously pathetic, war-mongering nightmare wherein 82.7% of its goobers sports nothing
+
+[LOW] Score 4
+1\Toshiba Files\Very likely mine is not a story of extremes.doc
+
+[LOW] Score 4
+2\Hachiko-A-Dog-s-Story-hachiko-a-dogs-story-14893604-1600-1200 - Copy.jpg
+
+[LOW] Score 4
+2\lighted tiny 2-story.jpg
+
+[LOW] Score 4
+2\USCG_Sentinel_class_cutter_poster.pdf
+Preview: length: 154 feet beam: 25 feet displacement: 353 long tons draft: 9.6 feet speed: 28+ knots range: 2,950 nautical miles crew: 24 (two officers) countermeasures: one short-range prosecutor rigid hull inflatable boat armament: one remotely controlled 25 mm chain gun autocannon four 50-cal. machine gun
+
+[LOW] Score 4
+3\Gary Stadler & Singh Kaur\Favorites\Dremel.com Featured Story - Jim Pridham.url
+
+[LOW] Score 4
+3\Gary Stadler & Singh Kaur\Favorites\Literotica Free Adult Community - Erotic Story and Picture Index.url
+
+[LOW] Score 4
+3\Gary Stadler & Singh Kaur\Favorites\The Long Walk The True Story of a Trek to Freedom Books Slavomir Rawicz.url
+
+[LOW] Score 4
+3\My Documents\Brief story from Upstate New York.doc
+
+[LOW] Score 3
+1\Toshiba Files\SCREAM OUTLINE & NOTES.doc
+
+[LOW] Score 3
+1\Toshiba Files\SILK SYNOPSIS.doc
+
+[LOW] Score 3
+2\CHINESE.pdf
+Preview: 30 North St, Burlington VT CHINA EXPRESS 2 Store: 3:30pm — 11:30pm Delivery: 3:30pm — 11:30pm 7 Days a Week Unless otherwise posted HOURS: WE ACCEPT MAJOR CREDIT CARDS 802-865-4888 | 802-862-8008  New North End  Old North End  UVM  Downtown Burlington  Winooski Falls Way DELIVERY TO: http://www
+
+[LOW] Score 3
+2\I am reluctant to enter into this fray because of its tediousness.pdf
+Preview:  I am reluctant to enter into this fray because of its tediousness, but Cathedral Square’s local staff, especially, and the pervasive thoughtlessness given to physical appearances and convenience have deteriorated at my Cathedral Square facility to a degree that’s disquieting and almost certainly a 
+
+[LOW] Score 3
+2\SCREAM SYNOPSIS EXTRA.doc
+
+[LOW] Score 3
+2\SILK SYNOPSIS.doc
+
+[LOW] Score 3
+2\ZACHARY'S.pdf
+Preview: Zachary’s Dinners are served with a Dinner Salad & Garlic Bread SPAGHETTI DINNER A large portion served with our Homemade Meat Sauce… 9.09 with Meatballs or Sausage… 9.59 (Meatless Sauce available) LASAGNA Layers of Noodles, blended Cheeses, specially seasoned Meat, and Homemade Sauce.… 10.99 STUFFE
+
+[LOW] Score 3
+3\New Yorker legal docs.txt
+Preview: Case 2:09-cv-03987-DSF-MAN Document 231 Filed 06/23/10 Page 1 of 28 Page ID#:9049 Case 2:09-cv-03987-DSF-MAN Document 231 Filed 06/23/10 Page 2 of 28 Page ID#:9050 Case 2:09-cv-03987-DSF-MAN Document 231 Filed 06/23/10 Page 3 of 28 Page ID#:9051 Case 2:09-cv-03987-DSF-MAN Document 231 Filed 06/23/10
+
+[LOW] Score 3
+3\SCREAM OUTLINE & NOTES.doc
+
+[LOW] Score 3
+3\Gary Stadler & Singh Kaur\Favorites\PLOT.url
+
+[LOW] Score 3
+3\My Documents\5 Rules for Writing Clear English.doc
+
+[LOW] Score 3
+3\My Documents\metro_2.pdf
+Preview: Funiculaire de/CR Montmartre Tarification spciale RER: au dela de cette limite, vers la banlieue, la tarification dpend de la distance. Les tickets mtro urbain ne sont pas valables. Stations fermes aprs 20h et les dimanches et ftes Correspondances Correspondance Mtro—RER ou Mtro—SNCF avec tr
+
+[LOW] Score 3
+3\My Documents\PASSPORTPHOTOGUIDE.pdf
+Preview: Guidelines for Producing High Quality Photographs for U.S. Travel Documents Technological advances have changed the way passport and visa photos may be taken and the way that the U.S. Department of State processes the photos. This brochure is to help photographers ensure that:  Customers are accura
+
+[LOW] Score 3
+3\My Documents\PLOT FORMULA.doc
+
+[LOW] Score 3
+3\My Documents\Prison Sheet0002.rtf
+Preview: {\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;} {\f2\fmodern\fcharset0\fprq
+
+[LOW] Score 3
+3\My Documents\The Plot Formula for Dallas handout.doc
+
+[LOW] Score 3
+3\My Documents\Start Menu\Programs\Accessories\Accessibility\Narrator.lnk
+
+[UNLIKELY] Score 2
+1\Toshiba Files\THE RED BOOK REOPENED.doc
+
+[UNLIKELY] Score 2
+2\AGENT QUERY LETTER.doc
+
+[UNLIKELY] Score 2
+2\Okay, so you've had the book.doc
+
+[UNLIKELY] Score 2
+3\Gary Stadler & Singh Kaur\Favorites\Audacity Free Audio Editor and Recorder.url
+
+[UNLIKELY] Score 2
+3\Gary Stadler & Singh Kaur\Favorites\The Working Dogs Book Store - Tracking.url
+
+[UNLIKELY] Score 2
+3\My Documents\Start Menu\Programs\Accessories\Address Book.lnk
+
+[UNLIKELY] Score 1
+2\01 - Ruby.mp3
+
+[UNLIKELY] Score 1
+2\01 May It Be [From Lord of the Rings].mp3
+
+[UNLIKELY] Score 1
+2\02 - The Quiet Path(2).mp3
+
+[UNLIKELY] Score 1
+2\03 - Time for Healing.mp3
+
+[UNLIKELY] Score 1
+2\03 The Celts.mp3
+
+[UNLIKELY] Score 1
+2\04 - My Immortal.mp3
+
+[UNLIKELY] Score 1
+2\04 Fields of Gold.mp3
+
+[UNLIKELY] Score 1
+2\07 - Heart's Call.mp3
+
+[UNLIKELY] Score 1
+2\08 More Triangle Drum Circle.m4a
+
+[UNLIKELY] Score 1
+2\08 Theme from Harry's Game.mp3
+
+[UNLIKELY] Score 1
+2\09 - Wisdom Found(1).mp3
+
+[UNLIKELY] Score 1
+2\09 Evergreen.mp3
+
+[UNLIKELY] Score 1
+2\09 O Sleep, My Pretty Baby.m4a
+
+[UNLIKELY] Score 1
+2\09 Watermark.mp3
+
+[UNLIKELY] Score 1
+2\10 - Brother In Arms (Live).mp3
+
+[UNLIKELY] Score 1
+2\12 Good Will Hunting.mp3
+
+[UNLIKELY] Score 1
+2\13 - The Last Rose.mp3
+
+[UNLIKELY] Score 1
+2\14 I Will Find You.mp3
+
+[UNLIKELY] Score 1
+2\14 Only a Woman's Heart.mp3
